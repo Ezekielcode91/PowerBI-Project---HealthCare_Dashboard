@@ -1,6 +1,13 @@
-#INTRODUCTION
-#DATA CLEANING/MANIPULATION
-#ANALYSIS
-#DASHBOARD AND FINDINGS
-#LESSONS LEARNED
-#CONCLUSION
+#Introduction
+
+
+#Data Cealing and manipulation
+
+
+#Dashbaord and Findings
+
+
+##Lessons Learned
+
+
+##Conclusion
