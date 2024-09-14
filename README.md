@@ -1,13 +1,13 @@
-#Introduction
+Introduction
 
 
-#Data Cealing and manipulation
+Data Cleaning and manipulation
 
 
-#Dashbaord and Findings
+Dashboard and Findings
 
 
-##Lessons Learned
+Lessons Learned
 
 
-##Conclusion
+Conclusion
